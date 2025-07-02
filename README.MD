@@ -1,4 +1,6 @@
-# VKguide Starting Point (No IDE)
+# VKguide Starting Point without ide needed (WIP!)
+
+for the people who dont want to use visual studio when following vkguide.dev. not tested with any ides yet, i work with notepad++ lol
 
 > ⚠️ **Tested only on Windows**  
 > A Linux version might come later – no promises.
